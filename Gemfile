@@ -49,7 +49,7 @@ gem 'capistrano-bundler'
 gem 'capistrano-rails' 
 
 # Add this if you're using rbenv
-# gem 'capistrano-rbenv', github: "capistrano/rbenv"
+gem 'capistrano-rbenv', github: "capistrano/rbenv"
 
 # Add this if you're using rvm
-gem 'capistrano-rvm', github: "capistrano/rvm"
+#gem 'capistrano-rvm', github: "capistrano/rvm"
